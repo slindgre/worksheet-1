@@ -142,6 +142,6 @@ Hope to get out of the course:
 
 Project ideas:
 
-----
+--------
 
 Conflict line:

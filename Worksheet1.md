@@ -1,98 +1,146 @@
 **Brady**: https://github.com/brady-j-garvin
+
 Hope to get out of the course: further understanding of students' ways of thinking, especially approaches that differ from the computer science mindset; improved ability to help students strengthen their computation thinking; knowledge that students have finished the class with a better understanding of computer science and better able to incorporate computers into their fields of interest
+
 Project ideas: interactive fiction; interactive music; tile-based video game; physics simulation; multilingual social media with translation aids, minimal CAD interface for a 3D printer
 
 **Ann**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Bo**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Brandon**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Brian**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Garrett**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Hunter**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Jennifer**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Jerrid**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Josh**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Katie**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Kramer**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Maggie**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Nick**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Nicole**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Olivia**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Patrick**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Ryan**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Sean**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Seth**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Smith**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Tyler**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Wynston**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 **Zach**:
-Hope To Get Out Of The Course:
-Project Ideas:
+
+Hope to get out of the course:
+
+Project ideas:
 
 ----
 

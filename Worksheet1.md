@@ -46,12 +46,6 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Jerrid**:
-
-Hope to get out of the course:
-
-Project ideas:
-
 **Josh**:
 
 Hope to get out of the course:

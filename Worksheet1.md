@@ -118,12 +118,6 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Tyler**:
-
-Hope to get out of the course:
-
-Project ideas:
-
 **Wynston**:
 
 Hope to get out of the course:

@@ -58,6 +58,12 @@ Hope to get out of the course:
 
 Project ideas:
 
+**Kese**:
+
+Hope to get out of the course:
+
+Project ideas:
+
 **Kramer**:
 
 Hope to get out of the course:
@@ -113,6 +119,12 @@ Hope to get out of the course:
 Project ideas:
 
 **Smith**:
+
+Hope to get out of the course:
+
+Project ideas:
+
+**Valerie**:
 
 Hope to get out of the course:
 

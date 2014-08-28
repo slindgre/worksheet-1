@@ -4,6 +4,12 @@ Hope to get out of the course: further understanding of students' ways of thinki
 
 Project ideas: interactive fiction; interactive music; tile-based video game; physics simulation; multilingual social media with translation aids, minimal CAD interface for a 3D printer
 
+**Aaron**:
+
+Hope to get out of the course:
+
+Project ideas:
+
 **Ann**:
 
 Hope to get out of the course:
@@ -34,12 +40,6 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Hunter**:
-
-Hope to get out of the course:
-
-Project ideas:
-
 **Jennifer**:
 
 Hope to get out of the course:
@@ -53,12 +53,6 @@ Hope to get out of the course:
 Project ideas:
 
 **Katie**:
-
-Hope to get out of the course:
-
-Project ideas:
-
-**Kese**:
 
 Hope to get out of the course:
 
@@ -119,12 +113,6 @@ Hope to get out of the course:
 Project ideas:
 
 **Smith**:
-
-Hope to get out of the course:
-
-Project ideas:
-
-**Valerie**:
 
 Hope to get out of the course:
 

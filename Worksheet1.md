@@ -70,11 +70,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Nick**:
+**Nick**: https://github.com/Kotaku432
 
-Hope to get out of the course:
+Hope to get out of the course: A better understanding of repositories and github
 
-Project ideas:
+Project ideas: Site that teaches computational problem solving
 
 **Nicole**:
 

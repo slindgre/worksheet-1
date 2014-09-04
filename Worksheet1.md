@@ -100,11 +100,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Sean**:
+**Sean**:https://github.com/slindgre
 
-Hope to get out of the course:
+Hope to get out of the course: Learn about computers
 
-Project ideas:
+Project ideas: video website. blog. 
 
 **Seth**:
 

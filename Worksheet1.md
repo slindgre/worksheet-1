@@ -23,8 +23,8 @@ Hope to get out of the course:
 Project ideas:
 
 **Brandon**:
-
-Hope to get out of the course:
+https://github.com/bbarringer8
+Hope to get out of the course: I would like to strengthen my logic skills and be able to create simple programs that can represent scientific data. I think learning how to make a video game, musical synthesis software and how recording software is made is the most interesting facets of programming to me. 
 
 Project ideas:
 

@@ -106,11 +106,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Seth**:
+**Seth**:https://github.com/slindgr2
 
-Hope to get out of the course:
+Hope to get out of the course:general knowledge about coding, possibly be able to make a video game.
 
-Project ideas:
+Project ideas:html, https, social media sites.
 
 **Smith**:
 

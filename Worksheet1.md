@@ -34,11 +34,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Garrett**:
+**Garrett**:https://github.com/gcbracken
 
-Hope to get out of the course:
+Hope to get out of the course: The knowledge to start learning about coding and technology on my own.  The ability to make myself more efficient by utilizing computers
 
-Project ideas:
+Project ideas: A calander/daily planner/task that I actually like.  A voice command system ("computer, open homework folder") would also be cool, but that would probably be on the OS.
 
 **Jennifer**:
 

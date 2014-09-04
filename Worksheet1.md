@@ -58,9 +58,9 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Kramer**:
+**Kramer**: https://github.com/kramerrath
 
-Hope to get out of the course:
+Hope to get out of the course: Interactive websites
 
 Project ideas:
 

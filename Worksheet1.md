@@ -52,11 +52,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Katie**:
+**Katie**: https://github.com/katsamson
 
-Hope to get out of the course:
+Hope to get out of the course: I would like to become eventually efficient at the material covered in class
 
-Project ideas:
+Project ideas: Art portfolio website?!
 
 **Kramer**:
 

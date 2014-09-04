@@ -70,11 +70,11 @@ Hope to get out of the course:
 I just want to get a better understanding of this course and what it details. I am not great at math .
 Project ideas: A student and teacher interactive website.
 
-**Nick**:
+**Nick**: https://github.com/Kotaku432
 
-Hope to get out of the course:
+Hope to get out of the course: A better understanding of repositories and github
 
-Project ideas:
+Project ideas: Site that teaches computational problem solving
 
 **Nicole**:
 

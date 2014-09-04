@@ -112,11 +112,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Smith**:
+**Smith**:https://github.com/tsmith9
 
-Hope to get out of the course:
+Hope to get out of the course:I hope to get a better understanding about computer science, I do not know much about it as of right now.
 
-Project ideas:
+Project ideas:I would like to build websites that deal with sports. 
 
 **Wynston**:
 

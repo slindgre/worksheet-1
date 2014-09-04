@@ -1,4 +1,4 @@
-**Brady**: https://github.com/brady-j-garvin
+
 
 Hope to get out of the course: further understanding of students' ways of thinking, especially approaches that differ from the computer science mindset; improved ability to help students strengthen their computation thinking; knowledge that students have finished the class with a better understanding of computer science and better able to incorporate computers into their fields of interest
 
@@ -10,11 +10,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Ann**:
+**Ann**:https://github.com/aschulte1919
 
-Hope to get out of the course:
+Hope to get out of the course: an understanding of the thought process behind computer science and programming.
 
-Project ideas:
+Project ideas: I would like to build an app or a simple business website such as:http://secretpenguin.com/ I think this website is very cool and would like to learn how to do that and also if possible learn how to create fonts.
 
 **Bo**:
 

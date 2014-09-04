@@ -1,4 +1,4 @@
-
+**Brady**: https://github.com/brady-j-garvin
 
 Hope to get out of the course: further understanding of students' ways of thinking, especially approaches that differ from the computer science mindset; improved ability to help students strengthen their computation thinking; knowledge that students have finished the class with a better understanding of computer science and better able to incorporate computers into their fields of interest
 

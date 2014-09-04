@@ -46,11 +46,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Josh**:
+**Josh**:https://github.com/joshnunnally
 
-Hope to get out of the course:
+Hope to get out of the course: I hope to find out if computer science is something I am interested in.
 
-Project ideas:
+Project ideas: Sports News
 
 **Katie**:
 

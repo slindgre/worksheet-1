@@ -118,11 +118,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Wynston**:
+**Wynston**: https://github.com/WynNowak
 
-Hope to get out of the course:
+Hope to get out of the course: I would really just like to learn the world of programming as well as understand what it takes to work on sites like this. 
 
-Project ideas:
+Project ideas:Personal Blog and maybe a Portfolio Site, Tiled Video Game
 
 **Zach**:
 

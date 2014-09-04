@@ -4,11 +4,11 @@ Hope to get out of the course: further understanding of students' ways of thinki
 
 Project ideas: interactive fiction; interactive music; tile-based video game; physics simulation; multilingual social media with translation aids, minimal CAD interface for a 3D printer
 
-**Aaron**:
+**Aaron**:https://github.com/aschiller8/worksheet-1.git
 
-Hope to get out of the course:
+Hope to get out of the course: I want to learn more about how to code for computers. I have never done this type of thing before and find it interesting.
 
-Project ideas:
+Project ideas: buliding a website to host biological data that all can access for free and contribute
 
 **Ann**:
 

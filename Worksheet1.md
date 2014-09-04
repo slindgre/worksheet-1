@@ -64,11 +64,11 @@ Hope to get out of the course: Interactive websites
 
 Project ideas:
 
-**Maggie**:
+**Maggie**:https://github.com/maggiegoebel85
 
 Hope to get out of the course:
-
-Project ideas:
+I just want to get a better understanding of this course and what it details. I am not great at math .
+Project ideas: A student and teacher interactive website.
 
 **Nick**:
 

@@ -132,5 +132,5 @@ Project ideas:
 
 --------
 
-Conflict line: Brady
+Conflict line: Brady Garvin
 

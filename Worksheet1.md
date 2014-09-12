@@ -94,11 +94,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Ryan**:
+**Ryan**: https://github.com/RHagenso/
 
-Hope to get out of the course:
+Hope to get out of the course: Computer science thought fundamentals
 
-Project ideas:
+Project ideas: Anything w/ medicine, academic blogging, or personal branding
 
 **Sean**:https://github.com/slindgre
 

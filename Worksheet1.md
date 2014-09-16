@@ -132,9 +132,5 @@ Project ideas:
 
 --------
 
-<<<<<<< HEAD
-Conflict line: hijggyhu
-=======
-Conflict line: Brady Garvin
+Conflict line: Brady Garvin Katie Samson
 
->>>>>>> 2253b4422dd8d063c2fb1863a4a728f6edb794fe

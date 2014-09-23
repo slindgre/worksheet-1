@@ -131,7 +131,7 @@ Hope to get out of the course:
 Project ideas:
 
 --------
-Conflict line: Brady Garvin Katie Samson Tyler Smith Brandon Barringer
+
+Conflict line: Brady Garvin Katie Samson Tyler Smith
 
  
-

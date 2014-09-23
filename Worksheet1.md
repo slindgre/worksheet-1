@@ -132,4 +132,6 @@ Project ideas:
 
 --------
 
-Conflict line:
+Conflict line:Tyler Smith
+
+  

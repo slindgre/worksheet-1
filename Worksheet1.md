@@ -132,5 +132,6 @@ Project ideas:
 
 --------
 
-Conflict line: Brady Garvin Katie Samson
+Conflict line: Brady Garvin Katie Samson Tyler Smith
 
+ 

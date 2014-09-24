@@ -4,17 +4,17 @@ Hope to get out of the course: further understanding of students' ways of thinki
 
 Project ideas: interactive fiction; interactive music; tile-based video game; physics simulation; multilingual social media with translation aids, minimal CAD interface for a 3D printer
 
-**Aaron**:
+**Aaron**:https://github.com/aschiller8/worksheet-1.git
 
-Hope to get out of the course:
+Hope to get out of the course: I want to learn more about how to code for computers. I have never done this type of thing before and find it interesting.
 
-Project ideas:
+Project ideas: buliding a website to host biological data that all can access for free and contribute
 
-**Ann**:
+**Ann**:https://github.com/aschulte1919
 
-Hope to get out of the course:
+Hope to get out of the course: an understanding of the thought process behind computer science and programming.
 
-Project ideas:
+Project ideas: I would like to build an app or a simple business website such as:http://secretpenguin.com/ I think this website is very cool and would like to learn how to do that and also if possible learn how to create fonts.
 
 **Bo**:
 
@@ -23,8 +23,8 @@ Hope to get out of the course:
 Project ideas:
 
 **Brandon**:
-
-Hope to get out of the course:
+https://github.com/bbarringer8
+Hope to get out of the course: I would like to strengthen my logic skills and be able to create simple programs that can represent scientific data. I think learning how to make a video game, musical synthesis software and how recording software is made is the most interesting facets of programming to me. 
 
 Project ideas:
 
@@ -34,11 +34,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Garrett**:
+**Garrett**:https://github.com/gcbracken
 
-Hope to get out of the course:
+Hope to get out of the course: The knowledge to start learning about coding and technology on my own.  The ability to make myself more efficient by utilizing computers
 
-Project ideas:
+Project ideas: A calander/daily planner/task that I actually like.  A voice command system ("computer, open homework folder") would also be cool, but that would probably be on the OS.
 
 **Jennifer**:
 
@@ -46,35 +46,35 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Josh**:
+**Josh**:https://github.com/joshnunnally
 
-Hope to get out of the course:
+Hope to get out of the course: I hope to find out if computer science is something I am interested in.
 
-Project ideas:
+Project ideas: Sports News
 
-**Katie**:
+**Katie**: https://github.com/katsamson
 
-Hope to get out of the course:
+Hope to get out of the course: I would like to become eventually efficient at the material covered in class
 
-Project ideas:
+Project ideas: Art portfolio website?!
 
-**Kramer**:
+**Kramer**: https://github.com/kramerrath
 
-Hope to get out of the course:
-
-Project ideas:
-
-**Maggie**:
-
-Hope to get out of the course:
+Hope to get out of the course: Interactive websites
 
 Project ideas:
 
-**Nick**:
+**Maggie**:https://github.com/maggiegoebel85
 
 Hope to get out of the course:
+I just want to get a better understanding of this course and what it details. I am not great at math .
+Project ideas: A student and teacher interactive website.
 
-Project ideas:
+**Nick**: https://github.com/Kotaku432
+
+Hope to get out of the course: A better understanding of repositories and github
+
+Project ideas: Site that teaches computational problem solving
 
 **Nicole**:
 
@@ -94,11 +94,11 @@ Hope to get out of the course:
 
 Project ideas:
 
-**Ryan**:
+**Ryan**: https://github.com/RHagenso/
 
-Hope to get out of the course:
+Hope to get out of the course: Computer science thought fundamentals
 
-Project ideas:
+Project ideas: Anything w/ medicine, academic blogging, or personal branding
 
 **Sean**:https://github.com/slindgre
 
@@ -106,23 +106,23 @@ Hope to get out of the course: Learn about computers
 
 Project ideas: video website. blog. 
 
-**Seth**:
+**Seth**:https://github.com/slindgr2
 
-Hope to get out of the course:
+Hope to get out of the course:general knowledge about coding, possibly be able to make a video game.
 
-Project ideas:
+Project ideas:html, https, social media sites.
 
-**Smith**:
+**Smith**:https://github.com/tsmith9
 
-Hope to get out of the course:
+Hope to get out of the course:I hope to get a better understanding about computer science, I do not know much about it as of right now.
 
-Project ideas:
+Project ideas:I would like to build websites that deal with sports. 
 
-**Wynston**:
+**Wynston**: https://github.com/WynNowak
 
-Hope to get out of the course:
+Hope to get out of the course: I would really just like to learn the world of programming as well as understand what it takes to work on sites like this. 
 
-Project ideas:
+Project ideas:Personal Blog and maybe a Portfolio Site, Tiled Video Game
 
 **Zach**:
 
@@ -132,5 +132,11 @@ Project ideas:
 
 --------
 
+ HEAD
 Conflict line:Sean Lindgren
 
+
+Conflict line: Brady Garvin Katie Samson Tyler Smith
+
+ 
+ 7fa3254b7715b209a06a84a3cca39b06e0aba9c3
